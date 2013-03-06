@@ -1,6 +1,6 @@
-#H1 Kody pocztowe
+# Kody pocztowe
 
-#H3 Konfiguracja php
+## Konfiguracja php
 ```
 max_execution_time = 90
 ```
